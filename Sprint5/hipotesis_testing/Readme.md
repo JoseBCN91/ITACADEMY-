@@ -1,3 +1,3 @@
 # Hypothesis testing
 
-This repository performs a statistical study of a dataset containing diffent physical properties of superconducting materials. 
+This repository performs a statistical study of a dataset containing different physical properties of superconducting materials. 
